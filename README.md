@@ -98,13 +98,39 @@ https://6.180189.com/?source=json
 
 名称	接口地址	备注
 
-饭太硬	  http://www.饭太硬.net/tv	   推荐，备用：饭太硬备用
+饭太硬	  http://www.饭太硬.net/tv	   推荐
 
-肥猫	  http://肥猫.net/	     多源聚合，备用：备用1 / 备用2
+肥猫	  http://肥猫.net/	     多源聚合
 
-摸鱼	  http://我不是.摸鱼儿.top	   4K资源，备用：小不点 / fish.json
+摸鱼	  http://我不是.摸鱼儿.top	   4K资源
 
-王二小放牛娃	  http://tvbox.王二小放牛娃.top	   多源聚合，备用：wex.json
+王二小放牛娃	  http://tvbox.王二小放牛娃.top	   多源聚合
+
+备用接口
+
+饭太硬备用	 http://www.饭太硬.xyz/tv
+
+肥猫备用1	  http://hello.肥猫.net
+
+肥猫备用2	  http://肥猫.net/tv
+
+摸鱼备用1	  http://www.小不点.com
+
+摸鱼备用2	  https://6800.kstore.vip/fish.json
+
+王二小备用	  https://d.kstore.dev/download/9280/wex.json
+
+道长	  https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
+
+俊佬	  http://home.jundie.top:81/top98.json
+
+老刘备	  https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+
+短剧专线	  http://box.ufuzi.com/tv/qq/短剧频道/api.json
+
+儿童专线	  https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+
+
 
 # 📋 接口大全（含多仓 + 单接口）
 
