@@ -92,21 +92,23 @@ https://6.180189.com/?source=json
 
 无邪多仓	 https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json	    内置推荐优质接口＋聚合全网
 
-装B多仓（原欧歌）	 https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1	    备用：装B备用
+装B多仓（原欧歌）	 https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1	    
 
 🔹 优质单接口（可长期免费使用）
 
-名称	接口地址	备注
+名称	接口地址	
 
-饭太硬	  http://www.饭太硬.net/tv	   推荐
+饭太硬	  http://www.饭太硬.net/tv	 
 
-肥猫	  http://肥猫.net/	     多源聚合
+肥猫	  http://肥猫.net/	
 
-摸鱼	  http://我不是.摸鱼儿.top	   4K资源
+摸鱼	  http://我不是.摸鱼儿.top	 
 
-王二小放牛娃	  http://tvbox.王二小放牛娃.top	   多源聚合
+王二小放牛娃	  http://tvbox.王二小放牛娃.top	  
 
 备用接口
+
+名称	接口地址	
 
 饭太硬备用	 http://www.饭太硬.xyz/tv
 
@@ -119,16 +121,6 @@ https://6.180189.com/?source=json
 摸鱼备用2	  https://6800.kstore.vip/fish.json
 
 王二小备用	  https://d.kstore.dev/download/9280/wex.json
-
-道长	  https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
-
-俊佬	  http://home.jundie.top:81/top98.json
-
-老刘备	  https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-
-短剧专线	  http://box.ufuzi.com/tv/qq/短剧频道/api.json
-
-儿童专线	  https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 
 
 
@@ -177,6 +169,61 @@ https://6.180189.com/?source=json
 短剧专线	  http://box.ufuzi.com/tv/qq/短剧频道/api.json
 
 儿童专线	  https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+
+🔹 TVBox / 影视仓单接口大全二
+
+名称	接口地址
+
+太硬	http://www.饭太硬.net/tv
+
+
+摸鱼儿	http://www.y456y.com
+
+
+王二小	http://new.王二小放牛娃.top
+
+
+影仓	http://124.71.19.220/c/1
+
+⁠
+肥猫	http://肥猫.net/
+
+⁠
+小盒子4K	http://xhztv.top/4k.json
+
+
+⁠
+创享影视	https://ys.cxkjg.cn/api/provide/tvbox
+
+⁠
+老刘备	https://raw.liucn.cc/box/m.json
+
+⁠
+小马	https://szyyds.cn/tv/x.json
+
+⁠
+小盒子单仓	http://xhztv.top/xhz
+
+⁠
+伦理接口	http://47.96.82.41:5188/rose/18/xgg.json
+
+
+嗷呜	http://itv666.cc/aowu/config.webp
+
+
+无名	https://6800.kstore.vip/fish.json
+
+
+小盒子多仓	http://xhztv.top/dc
+
+
+拾光多仓	http://xmbjm.fh4u.org/dc.txt
+
+⁠
+挺好分享多仓	http://ztha.top/TVBox/GYCK.json
+
+⁠
+
 
 # ⚠️ GitHub 接口访问提示
 
