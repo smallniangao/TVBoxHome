@@ -83,7 +83,9 @@ TVBox原版软件下载地址 https://share.feijipan.com/s/iDdFNsdF
 
 https://6.180189.com/?source=json
 
-# 📌 海量接口持续更新ing 原版软件（接口分享集合，提交分享）
+# 📌 海量接口持续更新ing 原版软件分享（接口分享集合）
+
+#  💬长期维护 稳定地址源接口 网友可提交分享（强烈推荐）
 
 https://8.180189.com
 
