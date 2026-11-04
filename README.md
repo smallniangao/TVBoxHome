@@ -88,9 +88,9 @@ https://6.180189.com/?source=json
 
 🔹 多仓接口（需支持多仓的软件，如影视仓）
 
-名称	接口地址	备注
+名称	接口地址	
 
-无邪多仓	 https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json	    内置推荐优质接口＋聚合全网
+无邪多仓	 https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json	   
 
 装B多仓（原欧歌）	 https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1	    
 
