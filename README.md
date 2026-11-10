@@ -105,7 +105,7 @@ https://8.180189.com
 
 名称	接口地址	
 
-青龙     https://5.180189.com/api.php?act=config
+首先推荐-青龙     https://5.180189.com/api.php?act=config
 
 饭太硬	  http://www.饭太硬.net/tv	 
 
@@ -191,9 +191,6 @@ https://8.180189.com
 
 王二小	http://new.王二小放牛娃.top
 
-
-影仓	http://124.71.19.220/c/1
-
 ⁠
 肥猫	http://肥猫.net/
 
@@ -221,6 +218,71 @@ https://8.180189.com
 
 
 无名	https://6800.kstore.vip/fish.json
+
+
+饭太硬	http://www.饭太硬.com/tv
+
+饭太硬备用1	http://www.饭太硬.net/tv	
+
+饭太硬备用2	http://www.饭太硬.xyz/tv
+
+饭太硬备用3	http://fty.xxooo.cf/tv	
+
+饭太硬备用4	http://fty.888484.xyz/tv
+
+饭太硬备用5	http://fty.333232.xyz/tv
+
+肥猫	http://肥猫.com/
+
+肥猫备用	https://6296.kstore.vip/facat.json
+
+肥猫备用2	http://hello.肥猫.com/
+
+OK	http://ok321.top/ok
+
+摸鱼	http://我不是.摸鱼儿.com
+
+摸鱼备用	http://我不是.摸鱼儿.xyz
+
+王二小放牛娃	http://tvbox.王二小放牛娃.top
+
+王二小备用	https://d.kstore.dev/download/9280/wex.json	
+
+
+
+饭太硬	http://www.饭太硬.com/tv
+
+肥猫	http://肥猫.com/
+
+摸鱼4K	http://我不是.摸鱼儿.com
+
+小米	http://www.mpanso.com/小米/DEMO.json
+
+小米备用	http://miqk.cc/小米/DEMO.json
+
+OK	http://ok321.top/ok
+
+王二小放牛娃	http://tvbox.王二小放牛娃.top
+
+多多	https://yydsys.top/duo
+
+喵影视	http://www.meowtv.vip/tvbox.json
+
+道长	https://gitlab.com/duomv/dzhipy/-/raw/main/index.json
+
+俊佬	http://home.jundie.top:81/top98.json
+
+老刘备	https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+
+短剧专线	http://box.ufuzi.com/tv/qq/短剧频道/api.json
+
+儿童专线	https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+
+青龙2	https://gitee.com/yiwu369/6758/raw/master/1.json
+
+巧计	http://cdn.qiaoji8.com/tvbox.json
+
+毒盒	https://毒盒.com/tv
 
 
 小盒子多仓	http://xhztv.top/dc
