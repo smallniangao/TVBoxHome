@@ -121,6 +121,16 @@ https://8.180189.com
 
 饭太硬备用	 http://www.饭太硬.xyz/tv
 
+饭太硬备用1	http://www.饭太硬.net/tv	
+
+饭太硬备用2	http://www.饭太硬.xyz/tv
+
+饭太硬备用3	http://fty.xxooo.cf/tv	
+
+饭太硬备用4	http://fty.888484.xyz/tv
+
+饭太硬备用5	http://fty.333232.xyz/tv
+
 肥猫备用1	  http://hello.肥猫.net
 
 肥猫备用2	  http://肥猫.net/tv
@@ -148,6 +158,8 @@ https://8.180189.com
 🔹 TVBox / 影视仓单接口大全
 
 名称	接口地址
+
+青龙     https://5.180189.com/api.php?act=config
 
 饭太硬	 http://www.饭太硬.net/tv
 
@@ -182,6 +194,8 @@ https://8.180189.com
 🔹 TVBox / 影视仓单接口大全二
 
 名称	接口地址
+
+青龙     https://5.180189.com/api.php?act=config
 
 太硬	http://www.饭太硬.net/tv
 
@@ -222,15 +236,7 @@ https://8.180189.com
 
 饭太硬	http://www.饭太硬.com/tv
 
-饭太硬备用1	http://www.饭太硬.net/tv	
 
-饭太硬备用2	http://www.饭太硬.xyz/tv
-
-饭太硬备用3	http://fty.xxooo.cf/tv	
-
-饭太硬备用4	http://fty.888484.xyz/tv
-
-饭太硬备用5	http://fty.333232.xyz/tv
 
 肥猫	http://肥猫.com/
 
