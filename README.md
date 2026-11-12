@@ -105,7 +105,7 @@ https://8.180189.com
 
 名称	接口地址	
 
-首先推荐-青龙     https://5.180189.com/api.php?act=config
+首选推荐-青龙     https://5.180189.com/api.php?act=config
 
 饭太硬	  http://www.饭太硬.net/tv	 
 
