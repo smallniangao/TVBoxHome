@@ -1,6 +1,7 @@
-2026.11.10 更新ing-持续更新中
+2026.11.12 更新ing-持续更新中
 
 TVBoxHome
+
 TVBox、影视仓、蜂蜜影视、OK影视、CatBox、影迷、EasyBox、小苹果影视、影视接口大全, 影视仓官网接口地址大全，TVBOX，影视仓下载地址，影视仓接口配置地址。
 
 欢迎访问 影视仓 TVBOX 接口项目！本项目专注于分享和更新稳定可用的 影视仓直播接口、影视仓配置接口、TVBox直播源地址，适用于各种电视盒子、安卓电视和 TVBox 电视版 App 用户。
@@ -98,7 +99,7 @@ https://8.180189.com
 
 名称 接口地址
 
-首先推荐-青龙 https://5.180189.com/api.php?act=config
+首选推荐-青龙 https://5.180189.com/api.php?act=config
 
 饭太硬 http://www.饭太硬.net/tv
 
@@ -180,6 +181,10 @@ https://8.180189.com
 短剧专线 http://box.ufuzi.com/tv/qq/短剧频道/api.json
 
 儿童专线 https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
+
+拾光趣乐屋 https://cdn.jsdmirror.com/gh/xmbjm/svip@main/svip.json
+
+网络收集 https://cdn.jsdmirror.com/gh/liu673cn/box@main/m.json
 
 🔹 TVBox / 影视仓单接口大全二
 
@@ -580,3 +585,4 @@ TVBox 电视版 app
 进入「设置」→「配置地址」→ 粘贴接口地址；
 
 返回首页，即可加载资源。
+
