@@ -191,6 +191,10 @@ https://8.180189.com
 
 儿童专线	  https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 
+拾光趣乐屋  https://cdn.jsdmirror.com/gh/xmbjm/svip@main/svip.json
+
+网络收集 https://cdn.jsdmirror.com/gh/liu673cn/box@main/m.json
+
 🔹 TVBox / 影视仓单接口大全二
 
 名称	接口地址
